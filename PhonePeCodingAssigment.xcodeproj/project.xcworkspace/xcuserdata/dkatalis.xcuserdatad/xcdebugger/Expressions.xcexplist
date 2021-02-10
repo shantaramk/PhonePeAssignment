@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "LogoGameViewController.configureImageView():LogoGameViewController+UI.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewModel">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LogoGameViewController.updateScoreIfNeeded():LogoGameViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "LogoGameViewController.updateUI(for:):LogoGameViewController+UI.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.viewModel.logoList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
